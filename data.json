@@ -1,0 +1,97 @@
+{
+    "title":"Paseo por el casco viejo de Aranjuez",
+    "id_test":"",
+    "description": "",
+    "author": "",
+    "questions" : [[
+        {
+        "id": 1,
+        "question": "En que año ocurrió el motín de Aranjuez",
+        "answer":{
+            "a": "1789",
+            "b": "1808",
+            "c": "1830",
+            "d": "1902"
+        },
+        "result":{
+            "a": false,
+            "b": true,
+            "c": false,
+            "d": false
+        },
+        "img_feature":{
+            "url": "./img/motin.jpg",
+            "alt": "motin de Aranjuez",
+            "desc": "Pintura sobre el motin de Aranjuez"
+        },
+        "hint": "inicio del reinado de Fernando VII",
+        "curiosity": " el 27 de marzo le había escrito una carta a Napoleón en la que le pedía su protección ―«He tomado la resolución de remitirme en todo a lo que quiera disponer de nosotros, de mi suerte, de la de la Reina y de la del príncipe de la Paz»"
+    },{
+        "id": 2,
+        "question": "En que consiste el Tratado de Aranjuez, ",
+        "answer":{
+            "a": "Permitió la entrada de las tropas de Napoleón",
+            "b": "la abdicación de Felipe V",
+            "c": "la participación de España en la guerra de la independencia",
+            "d": "la cesión de Puerto Rico, Marianas y Palao a EEUU"
+        },
+        "result":{
+            "a": false,
+            "b": false,
+            "c": true,
+            "d": false
+        },
+        "img_feature":{
+            "url": "./img/tratado",
+            "alt": "tratado de Aranjuez",
+            "desc": "Pintura sobre el tratado de Aranjuez"
+        },
+        "hint": "inicio del reinado de Fernando VII",
+        "curiosity": " el 27 de marzo le había escrito una carta a Napoleón en la que le pedía su protección ―«He tomado la resolución de remitirme en todo a lo que quiera disponer de nosotros, de mi suerte, de la de la Reina y de la del príncipe de la Paz»"
+    },{
+        "id": 3,
+        "question": "Que Dios representa esta fuente",
+        "answer":{
+            "a": "Venus",
+            "b": "Hércules",
+            "c": "Baco",
+            "d": "Neptuno"
+        },
+        "result":{
+            "a": true,
+            "b": false,
+            "c": false,
+            "d": false
+        },
+        "img_feature":{
+            "url": "./img/fuentevenus.jpg",
+            "alt": "Fuente",
+            "desc": "Fuente jardín de la isla"
+        },
+        "hint": "inicio del reinado de Fernando VII",
+        "curiosity": " el 27 de marzo le había escrito una carta a Napoleón en la que le pedía su protección ―«He tomado la resolución de remitirme en todo a lo que quiera disponer de nosotros, de mi suerte, de la de la Reina y de la del príncipe de la Paz»"
+    },{
+        "id": 3,
+        "question": "Que Dios representa esta fuente",
+        "answer":{
+            "a": "Venus",
+            "b": "Hércules",
+            "c": "Baco",
+            "d": "Neptuno"
+        },
+        "result":{
+            "a": true,
+            "b": false,
+            "c": false,
+            "d": false
+        },
+        "img_feature":{
+            "url": "./img/fuentevenus.jpg",
+            "alt": "Fuente",
+            "desc": "Fuente jardín de la isla"
+        },
+        "hint": "inicio del reinado de Fernando VII",
+        "curiosity": " el 27 de marzo le había escrito una carta a Napoleón en la que le pedía su protección ―«He tomado la resolución de remitirme en todo a lo que quiera disponer de nosotros, de mi suerte, de la de la Reina y de la del príncipe de la Paz»"
+    }
+    ]]
+}
